@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Co-curricular Activities</title>
+    <!-- CSS only -->
+    <link href="bootstrap-4.3.1-dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body> 
+    <h3 class="text-center my-3 pt-2">Co-curricular Activities</h3>
+    <table class="table table-striped table-hover">
+       <tr>
+        <td><img src="Art.jpg" class="img-fluid img-thumbnail" alt="..."></td>
+        <td><h4>ART</h4>
+            Children are naturally creative. Ekam Early Learning Centre includes art in everyday classroom activities to make exploration not just exciting, but also educational. Our environment enables free art exploration to strengthen motor skills, cognitive development, focus capabilities and to tickle both sides of the brain for accelerated brain development. Our Art Atelier is one of the most favourite places for children at school. It is where they thoroughly enjoy using a variety of tools like rollers, brushes, stamps, sponges, leaves, stems, forks and a lot of other types of natural and synthetic materials for art.</td>
+       </tr>
+       <tr>
+        <td><img src="Music.jpg" class="img-fluid img-thumbnail" alt="..."></td>
+        <td><h4>MUSIC</h4>
+            Music ignites all areas of child development and skills for school readiness, including intellectual, social-emotional, motor, language, and overall literacy. It helps the body and mind work together. Many surveys on Brain Development conducted around the world conclude that including music in early learning makes children quicker learners & easily adaptable. At Ekam Early Learning Centre, vocal & instrumental music is an integral part of the curriculum and starts at the earliest stage. We have a well-equipped Music studio, and our unique music program immerses our little ones in the language and joy of music at school.</td>
+       </tr>
+       <tr>
+        <td><img src="Dance.jpg" class="img-fluid img-thumbnail" alt="..."></td>
+        <td><h4>DANCE</h4>
+            The ability to start dancing develops in children before they can even form words! Through Dance, children learn a vast range of motion, body awareness, balance, muscle strength, coordination, and endurance. It is not only entertaining but also develops social skills and the ability to express and emote. Ekam Early Learning Centre seamlessly includes Dance into the curriculum to enable kinesthetic learning.</td>
+       </tr>
+       <tr>
+        <td><img src="Gardening.jpg" class="img-fluid img-thumbnail" alt="..."></td>
+        <td><h4>GARDENING</h4>
+            Gardening engages all of the senses! Squish your hands in the dirt. How does it feel? Let’s add some water. What does it look like now? How does that flower smell? We grew this vegetable let’s eat it and see how it tastes! Hear that crunch when we bite into it?</td>
+       </tr>
+        <td><img src="Mindfulness.jpg" class="img-fluid img-thumbnail" alt="..."></td>
+        <td><h4>MINDFULNESS</h4>
+            Social and emotional learning is as essential for a child as academic learning. At Ekam Early Learning Centre, we follow a holistic approach towards learning by making Mindfulness a part of classroom learning by integrating it into classroom-themed activities. Mindfulness means maintaining a moment-by-moment awareness of our thoughts, emotions, bodily sensations, and surrounding environment with openness and curiosity. The activities include exercises in breathing, sensory experience, guided imagery, and movement. It revolves around Mindfulness of the mind as well as body and has numerous benefits. </td>
+       </tr>
+    </table>
+</body>
+</html>
